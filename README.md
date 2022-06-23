@@ -4,4 +4,4 @@ https://github.com/AgnesLily2772/April-2-Task
 2. Create your own resume data in JSON format 
 https://github.com/AgnesLily2772/April-2-Task/blob/main/resume.json
 
-Task link : https:agneslily3.netlify.app
+Task link : https://agneslily3.netlify.app
