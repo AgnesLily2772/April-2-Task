@@ -1,0 +1,138 @@
+{
+  "Basic Information": [{
+    "Name": "AGNES LILY",
+    "Occupation": "Student",
+    "Email": "agneslily2772@gmail.com",
+    "Phone": "9150723391",
+    "Link": "https://agneslily.com",
+    "City": "Chennai"
+  }],
+  "Profiles":[
+    {
+      "Network": "Facebook",
+      "Username": "Agnes Lily A",
+      "Url": "https://www.facebook.com/profile.php?id=100074110706315"
+    },{
+      "Network":"LinkedIn",
+      "Username":"AGNES LILY",
+      "Url":"https://www.linkedin.com/in/agneslily-27072002/"
+    },{
+      "Network":"Medium",
+      "Username":"AGNES LILY",
+      "Url":"https://agneslily2772.medium.com/"
+    },
+    {
+      "Network":"Twitter",
+      "Username":"AgnesLily2772",
+      "Url":"https://twitter.com/AgnesLily2772"
+    }
+  ],
+  "Interships": [{
+      "Company":"Edureka",
+      "Role":"Student Intern",
+      "Date":"Nov 2021",
+      "Description":"Built a Responsive Home Page which automatically adjust to various screen sizes. Created a full fledged user-friendly upscaling online food ordering website with payment integration. Became the super intern by performing well in evaluation and by completing all my work on time."
+  },
+  {
+      "Company":"IEEE",
+      "Role":"IOT with ML intern",
+      "Date":"June 2021",
+      "Description":"Machine Learning on image processing using training dataset and testing data. OpenCV library using Python on imaging by importing, exporting and visualizing images. Face recognition in real time using sample Dataset creation and Testing data."
+
+  },
+  {
+      "Company":"Suven Consultants and Technology Pvt.Ltd.",
+      "Role":"Data Analytics Coding Intern",
+      "Date":"May 2021",
+      "Description":"Performing Analysis of Meteorological Data Recognizing Handwritten Digits with scikit-learn"
+  }],
+  "Interests":[{
+    "Subjects":["Database Management Systems","Data Structures and Algorithms","Object Oriented Programming"]
+  }],
+  "Education": [{
+      "Study Type":"Bachelors",
+      "Year":"2023",
+      "College":"Loyola-ICAM College of Engineering and Technology",
+      "Percentage":"92"
+  },
+  {
+      "Study Type":"HSC",
+      "School":"T.S.T. Rajah Girls Mat.Hr.Sec.School",
+      "Year":"2019",
+      "Percentage":"88"
+  },
+  {
+      "Study Type":"SSLC",
+      "School":"T.S.T. Rajah Girls Mat.Hr.Sec.School",
+      "Year":"2017",
+      "Percentage":"98.2"
+  }],
+  "Awards": [{
+    "Title": "Academic Science Topper",
+    "Year": "2017",
+    "Awarder": "T.S.T. Rajah Girls Mat.Hr.Sec.School"
+  },
+  {
+      "Title":"Academic Topper (Rank II)",
+      "Year":"2022",
+      "Awarder":"Loyola-ICAM College of Engineering and Technology"
+  }],
+  "Certificates": [{
+    "Name": "Data Science Foundations",
+    "Issuer": "Great Learning Academy"
+  },
+  {
+      "Name":"MATLAB Onramp",
+      "Issuer":"MathWorks"
+  },
+  {
+      "Name":"Microsoft Excel - Advanced Excel Formulas & Functions",
+      "Issuer":"Udemy"
+  },
+  {
+      "Name":"Virtual Experience Program",
+      "Issuer":"Microsoft"
+  }],
+  "Skills": [
+      {
+          "Soft Skills":["Communication","Team Player","Multi-Tasking","Constant Leanring","Adaptability"]
+      },
+      {
+          "Hard Skills":["Programming","Web Development","Problem Solving","Logical Thinking","Database"]
+      }
+
+  ],
+  "Languages": 
+  [{
+    "Language": "English",
+    "Fluency": "Professional Working Proficiency"
+  },
+  {
+      "Language":"Tamil",
+      "Fluency":"Native Speaker"
+  }],
+  "Technology": [{
+    "Tech-Stack":["Html","Css","Javascript","Bootstrap","NodeJS","MongoDb","ExpressJS","ReactJS","Firebase"]
+  }],
+  "Projects": [{
+    "Name": "Escuela",
+    "Description": "Escuela is a web application to record and monitor student both academic as well as extra curricular activities. This is a MERN stack website with the MongoDb as database, Express as Web Framework, React for Frontend and Node for Web Server. This website can be easily accessed in all devices and screens.",
+    "Url":"https://escuela.herokuapp.com/",
+    "Role":"Team Leader",
+    "Type": "Web Application"
+  },
+  {
+      "Name":"Gyandaan",
+      "Description":"Gyandaan is a website to help students who can't afford coaching classes. Here both students and volunteers/mentors can sign up. The mentors can mention their specialization. And students can ask doubts according to their area of improvement. This is website is made using frontend technology React JS and Firebase framework.(Destop mode only)",
+      "Url":"https://gyandaan2772.netlify.app/",
+      "Role":"Team Leader",
+      "Type":"Web Application"
+  },
+  {
+      "Name":"BookyView",
+      "Description":"Now I have recently built a MERN stack project which comprises of Front-End, Back-end and Database components. This is website where we can find a lot of books and reviews.",
+      "Url":"https://bookyview.herokuapp.com/",
+      "Role":"Team Member",
+      "Type":"Web Application"
+  }]
+}
