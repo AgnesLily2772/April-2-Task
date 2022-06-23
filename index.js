@@ -1,5 +1,4 @@
 import resume from './resume.json' assert { type: "json" };
-console.log(resume)
 
 const pageSetup = document.createElement("div");
 pageSetup.className = "container mydiv";
